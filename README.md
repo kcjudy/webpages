@@ -17,7 +17,7 @@ E115 HTML Assignments
 <h1> Welcome </h1>
  <body>
   <p><p style=“color:  ; font-family: Arial;”> Description: <ins> About Me </ins>
-  <p> My name is <em> Katherine </em> During my free time while I am not studying I typically like to spend my time gardening in NCSUs greenhouse or playing with my dog. I am a transfer student at <em> NC State University </em> and in my juinor year.
+  <p> My name is <em> Katherine </em> During my free time while I am not studying I typically like to spend my time gardening in NCSUs greenhouse or playing with my dog. I am a transfer student at <em> NC State University </em> and am from Raleigh. </p>
   
 	  
  <head> <strong> <p> My Favorite Things </strong> <p> My friends, my dog, and traveling. </p>
