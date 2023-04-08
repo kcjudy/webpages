@@ -21,8 +21,8 @@ E115 HTML Assignments
   
 	  
  <head> <strong> <p> My Favorite Things </strong> <p> My friends, my dog, and traveling. </p>
-p {}
 
+<h1> More about NCSU Greenhouse </h1>
 <p> For more information on NCSU's greenhouse: </p>
 <a href= "https://phytotron.ncsu.edu/greenhouses" target="_blank" >North Carolina State Univeristy </a>
 {
