@@ -1,4 +1,3 @@
-# webpages
 E115 HTML Assignments
  *Name: [Katherine Judy]
  *UnityID: [kcjudy]
@@ -25,10 +24,6 @@ E115 HTML Assignments
 <h1> More about NCSU Greenhouse </h1>
 <p> For more information on NCSU's greenhouse: </p>
 <a href= "https://phytotron.ncsu.edu/greenhouses" target="_blank" >North Carolina State Univeristy </a>
-{
-    property: value;
-}
 
-#id {
-    property:value;
-}
+	 
+![IMG_4758](https://user-images.githubusercontent.com/130121098/230745402-cbc43077-7201-4fa4-adcf-10ba20fbe577.jpg)
