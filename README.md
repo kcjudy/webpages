@@ -11,7 +11,7 @@ E115 HTML Assignments
  
 E115 HTML Assignments
 <head> <strong> About Me </strong>
-<title> Katherine's Webpage </title>
+<h1> Katherine's Webpage </h1>
 	
 <h1> Welcome </h1>
  <body>
