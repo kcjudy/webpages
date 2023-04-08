@@ -3,7 +3,6 @@ E115 HTML Assignments
 <head> <strong> About Me </strong>
 	
 
-![IMG_7596](https://user-images.githubusercontent.com/130121098/230700485-95fc1a2e-e8a6-4b15-943e-ccf8c0fb959d.JPG)
 
 	
  <body>
