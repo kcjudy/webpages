@@ -25,7 +25,7 @@ p {}
 
 <p> For more information on NCSU's greenhouse: </p>
 <a href= "https://phytotron.ncsu.edu/greenhouses" target="_blank" >North Carolina State Univeristy </a>
-.class {
+{
     property: value;
 }
 
